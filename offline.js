@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1698591795,
+	"version": 1698677434,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,6 +64,10 @@
 		"images/applestore-sheet0.png",
 		"images/burgerstore-sheet0.png",
 		"images/foodstext-sheet0.png",
+		"images/potions2-sheet0.png",
+		"images/healthpotionshop-sheet0.png",
+		"images/foodpotionshop-sheet0.png",
+		"images/energypotionshop-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
