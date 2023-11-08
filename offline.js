@@ -1,13 +1,11 @@
 ﻿{
-	"version": 1698677434,
+	"version": 1699451498,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"images/fridge-sheet0.png",
 		"images/food_kitchen-sheet0.png",
-		"images/food_kitchen-sheet1.png",
-		"images/food_kitchen-sheet2.png",
 		"images/shop-sheet0.png",
 		"images/next-sheet0.png",
 		"images/prev-sheet0.png",
@@ -31,8 +29,6 @@
 		"images/water-sheet0.png",
 		"images/shelf-sheet0.png",
 		"images/lab_potion-sheet0.png",
-		"images/lab_potion-sheet1.png",
-		"images/lab_potion-sheet2.png",
 		"images/joystick-sheet0.png",
 		"images/ball-sheet0.png",
 		"images/closet-sheet0.png",
